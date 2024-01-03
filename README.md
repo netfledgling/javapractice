@@ -8,8 +8,8 @@ I'll be categorizing problems based on where the problem is sourced from. Folder
 - Job Hunt
   - LeetCode
   - HackerRank
-- DSA Practice
 - Misc (for anything that may not apply to aforementioned categories)
+  - DSA practice (dsa)
   
 The actual code files can be navigated to within the respective folders.
 
